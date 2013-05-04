@@ -1,0 +1,7 @@
+.a {width: 320px; height: 480px;background: white}
+.bolivar {height: 160px; background: #3AAACF; padding: 10px; border-radius: 25px;}
+.tigre {height: 160px; background: #FFE800; padding: 10px; border-radius: 25px;}
+.wilstermann {height: 160px; background: #FF0000; padding: 10px; border-radius: 25px;}
+.bolivar:hover {background: white; cursor: hand; box-shadow: 10px 10px 5px gray;}
+.tigre:hover {background: black; cursor: hand; box-shadow: 10px 10px 5px gray; color: #FFE800;}
+.wilstermann:hover {background: #1924B1; cursor: hand; box-shadow: 10px 10px 5px gray;}
